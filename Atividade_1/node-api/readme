@@ -1,0 +1,15 @@
+Uso de HTTPS - se certificar de que o tráfego entre o cliente e o servidor seja criptografado
+usando HTTPS.
+
+Autenticação de Dois Fatores (2FA) - implementar a autenticação de dois fatores pode adicionar uma camada
+extra de segurança. 
+
+Limitar Taxa de Requisições - implementar mecanismo de controle de taxa para limitar o número de 
+solicitações que um único usuário pode fazer em um determinado período de tempo, isso ajuda a proteger
+contra ataques de força bruta.
+
+Validação de Entradas - validar as entradas do usuário para evitar injeção de código malicioso, como 
+SQL Injection e XSS.
+
+Auditoria e Logs - mantenha registros de atividades e logs de segurança para rastrear eventos e detectar
+possíveis problemas de segurança;
